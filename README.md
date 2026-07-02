@@ -4,7 +4,7 @@
 
 Roark Pinkerton (RKZ) — director · Claude (Anthropic, Opus-class) — sole implementer, tester, and documenter
 
-**Status:** v0.1 draft, 2026-07-02. Public now so the record is dated and findable; an arXiv submission is planned. Full text: [PAPER.md](PAPER.md).
+**Status:** v1.0, 2026-07-02 — accepted by the director. arXiv submission to follow. Full text: [PAPER.md](PAPER.md).
 
 ---
 

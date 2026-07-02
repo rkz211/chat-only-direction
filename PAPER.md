@@ -2,8 +2,8 @@
 
 **Author:** Roark Pinkerton (RKZ) — director
 **AI system:** Claude (Anthropic, Opus-class), operating via the Claude Code agent harness — sole implementer, tester, and documenter
-**Draft:** v0.1, 2026-07-02
-**Status:** DRAFT for arXiv (cs.SE / cs.HC). Numbers verified against the repository record where marked; self-reported items are marked as such.
+**Version:** v1.0, 2026-07-02 — accepted by the director (the review pass §8.3 describes)
+**Status:** Prepared for arXiv (cs.SE / cs.HC). Numbers verified against the repository record where marked; self-reported items are marked as such. Public record: github.com/rkz211/chat-only-direction
 
 ---
 
